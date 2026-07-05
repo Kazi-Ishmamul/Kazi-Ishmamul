@@ -25,7 +25,7 @@ Node.js • Express.js • Laravel
 Flutter
 
 **Databases**  
-MongoDB • Mongoose • MySQL • Microsoft SQL Server (MSSQL) • Firebase Firestore
+MongoDB • MySQL • Microsoft SQL Server (MSSQL) • Firebase Firestore
 
 **Tools**  
 Git • GitHub • REST APIs • Firebase Authentication • Postman
