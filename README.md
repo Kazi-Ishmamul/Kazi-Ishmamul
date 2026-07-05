@@ -1,109 +1,44 @@
+```markdown
 # Hi there, I'm Kazi Ishmamul Haque 👋
 
 ## 👨‍💻 About Me
 
-I'm a **B.Sc. in Computer Science & Engineering** student at **Ahsanullah University of Science & Technology (AUST)** with a passion for **full-stack web development**, **mobile application development**, and **software engineering**.
+B.Sc. in **Computer Science & Engineering** at **Ahsanullah University of Science & Technology (AUST)**.
 
-I enjoy transforming ideas into practical solutions by building modern web and mobile applications. I'm continuously learning new technologies, improving my problem-solving skills, and exploring best practices in software design.
+Passionate about **Full-Stack Web Development**, **Mobile App Development**, and **Software Engineering**. I enjoy building practical applications, solving problems, and continuously learning new technologies.
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Languages
-- C++
-- Java
-- JavaScript
-- Dart
-- PHP
-- Python
-- SQL
+**Languages:** C++, Java, JavaScript, Dart, PHP, Python, SQL
 
-### 🎨 Frontend
-- React
-- HTML5
-- CSS3
-- Bootstrap
-- Laravel Blade
+**Frontend:** React, HTML, CSS, Bootstrap, Laravel Blade
 
-### ⚙️ Backend
-- Node.js
-- Express.js
-- Laravel
+**Backend:** Node.js, Express.js, Laravel
 
-### 📱 Mobile Development
-- Flutter
+**Mobile:** Flutter
 
-### 🗄️ Databases
-- MongoDB
-- MySQL
-- Microsoft SQL Server (MSSQL)
-- Firebase Firestore
+**Databases:** MongoDB, Mongoose, MySQL, Microsoft SQL Server, Firebase Firestore
 
-### 🔗 ORM / ODM
-- Mongoose
-
-### 🛠️ Tools & Technologies
-- Git & GitHub
-- Firebase Authentication
-- REST APIs
-- Postman
+**Tools:** Git, GitHub, REST APIs, Firebase Authentication, Postman
 
 ---
 
-## 📂 Projects
+## 📌 Projects
 
-I've worked on several academic and personal projects using modern technologies, including:
-
-- 📱 **Flutter + Firebase** — Mobile applications with Firebase Authentication and Firestore.
-- 🌐 **MERN Stack** — Full-stack web applications using MongoDB, Express.js, React, Node.js, and Mongoose.
-- ⚛️ **React + Laravel + MySQL** — Web applications with RESTful APIs and relational databases.
-- 🗄️ **Laravel Blade + Microsoft SQL Server** — Database-driven management systems.
+- 📱 Flutter + Firebase
+- 🌐 MERN Stack
+- ⚛️ React + Laravel + MySQL
+- 🗄️ Laravel Blade + Microsoft SQL Server
 
 ---
 
 ## 🌱 Currently Learning
 
-- System Design
-- Software Architecture
-- Cloud Technologies
-- Clean Architecture
-- Competitive Programming
+**System Design • Software Architecture • Clean Architecture • Cloud Technologies • Competitive Programming**
 
 ---
 
-## 💡 Interests
-
-- Full-Stack Web Development
-- Mobile Application Development
-- Software Engineering
-- Database Design
-- System Design
-- Problem Solving
-
----
-
-## 📊 GitHub Goals
-
-- 🌟 Build impactful real-world applications
-- 📚 Continuously learn new technologies
-- 🚀 Write clean, maintainable, and scalable code
-
-
-
-> *"Keep learning. Keep building. Keep improving."* 🚀## Hi there 👋
-
-<!--
-**Kazi-Ishmamul/Kazi-Ishmamul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"Code is not just what I write — it's what I create to solve real problems."*
+```
